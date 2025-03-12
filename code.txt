@@ -1,0 +1,2 @@
+MONGO = mongodb+srv://toufikbe2030:toufikbe2030@nodejstutorial.mrc5inj.mongodb.net/nodejstutorial?retryWrites=true&w=majority&appName=nodejstutorial
+MONGO = mongodb://toufikbe2030:toufikbe2030@ac-r9rdfwl-shard-00-00.mrc5inj.mongodb.net:27017,ac-r9rdfwl-shard-00-01.mrc5inj.mongodb.net:27017,ac-r9rdfwl-shard-00-02.mrc5inj.mongodb.net:27017/?ssl=true&replicaSet=atlas-aq41h0-shard-0&authSource=admin&retryWrites=true&w=majority&appName=nodejstutorial
